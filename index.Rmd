@@ -17,7 +17,7 @@ output:
 .centered {
   text-align: center;
   font-family: "Times New Roman", Times, serif;
-  color: Red;
+  color: Orange;
 }
 body {
   font-size: 13pt;
@@ -46,19 +46,48 @@ body {
   <a href="https://quangnhatm1.github.io">About Me</a>
   <a href=" https://quangnhatm1.github.io/https-quangnhatm1.github.io-mission-vision/">Mission and Vision</a> 
   <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/">Forms</a>
-  <a href="https://quangnhatm1.github.io/Activities">Activities</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-policies-procedures/">Policies</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-activities/">Activities</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-projects/">Projects</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-QA/">Q&A</a>
       </div>
 ```
 ::: centered
 <h1>**Forms**</h1>
 
 <p>`r format(Sys.time(), '%d %B, %Y')`</p>
-<img src="C:\Users\lequa\Downloads\pngtree-forms-icon-for-your-project-png-image_1555522.jpg" alt="Quang Le" style="width:360px;height: 300px;"/>
+<img src="C:\Users\lequa\Downloads\images.png" alt="Quang Le" style="width:300px;height: 300px;"/>
 :::
 ---
-***<u>Purposes:</u>*** **These forms help keep a record of who attended the sessions and how regularly they participated. This data can be used to identify students who may need additional support or encouragement.**
+***<u>Purposes:</u>*** 
 
-# ***I. SI Sessions Forms***
+**These forms help keep a record of who attended the SI sessions and how regularly they participated. This data can be used to identify students who may need additional support or encouragement.**
 
-## ***1. Check-in Form***
+# ***<u>I. SI Sessions Forms</u>***
 
+## ***1.  SI Session Registration Form 2025***
+
+### ***Instruction:***
+
+*You <u>MUST</u> have these following things below to fill this form:*
+
+a. UHD student's email.
+b. Tablet or Computer.
+c. Read carefully and follow the instruction in the form.
+
+***Form link (click on the link or scan the QR code):*** 
+
+[SI Session Registration Form](https://forms.office.com/r/JJs2WPxJhX)
+
+
+
+
+::: centered
+***<u>OR SCAN THIS QR</u>***
+
+<img src="C:\Users\lequa\Downloads\QRCode for SI Session Registration_(ECO 2301 - Dr. Abousaad) .png" alt="Quang Le" style="width:500px;height: 500px;"/>
+:::
+
+## ***2.  SI Session Check-in Form 2025***
+
+### ***Instruction:***

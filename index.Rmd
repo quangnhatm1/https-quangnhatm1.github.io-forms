@@ -10,6 +10,9 @@ output:
       collapsed: false
       smooth_scroll: true
 ---
+```{=html}
+    <img src="C:\Users\lequa\Downloads\commerce.jpg" alt="Cover Photo" style="width:100%; height: 300px;"/>
+```
 
 
 ```{=html}
@@ -77,17 +80,84 @@ c. Read carefully and follow the instruction in the form.
 
 ***Form link (click on the link or scan the QR code):*** 
 
-[SI Session Registration Form](https://forms.office.com/r/JJs2WPxJhX)
-
+```{=html}
+<span style="font-size: 13pt;">👉 <a href="https://forms.office.com/r/JJs2WPxJhX" style="font-weight: bold; color: blue;">Click to this link (SI Session Registration Form)</a></span>
+```
 
 
 
 ::: centered
-***<u>OR SCAN THIS QR</u>***
+***<u> SCAN THIS QR</u>***
 
-<img src="C:\Users\lequa\Downloads\QRCode for SI Session Registration_(ECO 2301 - Dr. Abousaad) .png" alt="Quang Le" style="width:500px;height: 500px;"/>
+```{=html}
+
+<span style="font-size: 13pt; display: flex; flex-direction: column; align-items: center;">
+👇
+<img src="C:\Users\lequa\Downloads\QRCode for SI Session Registration Form _(ECO 2301)_ .png" alt="QR Code" style="width: 500px; height: 500px;"/>
+</span>
+```
 :::
 
 ## ***2.  SI Session Check-in Form 2025***
 
 ### ***Instruction:***
+
+*You <u>MUST</u> have these following things below to fill this form:*
+
+a. UHD student's email.
+b. Tablet or Computer.
+c. Must be present during the SI Session.
+d. Read carefully and follow the instruction in the form.
+
+***Form link (click on the link or scan the QR code):*** 
+
+```{=html}
+<span style="font-size: 13pt;">👉 <a href="https://forms.office.com/r/02WDUPku25" style="font-weight: bold; color: blue;">Click to this link (SI Session Check-in Form)</a></span>
+```
+
+::: centered
+***<u> SCAN THIS QR</u>***
+
+```{=html}
+
+<span style="font-size: 13pt; display: flex; flex-direction: column; align-items: center;">
+👇
+<img src="C:\Users\lequa\Downloads\QRCode for Check-in Form_(Only for SI Session).png" alt="QR Code" style="width: 500px; height: 500px;"/>
+</span>
+```
+:::
+## ***3.  SI Session Evaluation Form 2025***
+
+### ***Instruction:***
+
+*You <u>MUST</u> have these following things below to fill this form:*
+
+a. UHD student's email.
+b. Tablet or Computer.
+c. Must be present during the SI Session.
+d. Read carefully and follow the instruction in the form.
+
+***Form link (click on the link or scan the QR code):***
+
+
+```{=html}
+<div style="position: fixed; right: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
+    <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-policies-procedures/" style="color: white; text-decoration: none; font-weight: bold;">Next Page →</a>
+</div>
+    <div style="position: fixed; left: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
+    <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-mission-vision/" style="color: white; text-decoration: none; font-weight: bold;">←Previous Page</a>
+</div>
+    
+```
+
+```{=html}
+<div style="background-color: black; display: flex; align-items: center; padding: 10px;">
+    <a href="https://www.uhd.edu" style="margin-right: auto;">
+        <img src="C:\Users\lequa\Downloads\UHD-Logo-Corporate.png" alt="UHD Logo" style="height: 50px; wide: 50 px">
+    </a>
+    <p style="color: white; margin: 5;">&copy; 2025 Quang Le | 
+        <a href="https://www.uhd.edu" style="color: white; text-decoration: none;">University of Houston - Downtown</a> | 
+        <a href="https://www.uhd.edu/sssl/supplemental-instruction/index.aspx" style="color: white; text-decoration: none;">Supplemental Instruction Program|</a>
+    </p>
+</div>
+```

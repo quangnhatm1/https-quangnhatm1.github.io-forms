@@ -170,7 +170,7 @@ d. Read carefully and follow the instruction in the form.
 ***Form link (click on the link or scan the QR code):***
 
 ```{=html}
-<span style="font-size: 13pt;">👉 <a href="https://forms.office.com/r/eYeU8HzVye" style="font-weight: bold; color: blue;">Click to this link (SI Session Evaluation Form)</a></span>
+<span style="font-size: 13pt;">👉 <a href="https://forms.office.com/r/eYeU8HzVye" style="font-weight: bold; color: blue;">Click to this link (Request Virtual SI Session Form)</a></span>
 ```
 
 ::: centered

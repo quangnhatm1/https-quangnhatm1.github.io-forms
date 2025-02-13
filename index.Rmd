@@ -134,11 +134,61 @@ d. Read carefully and follow the instruction in the form.
 
 a. UHD student's email.
 b. Tablet or Computer.
-c. Must be present during the SI Session.
+c. Must be present during the SI Session and fill out the form at the end of session.
 d. Read carefully and follow the instruction in the form.
 
 ***Form link (click on the link or scan the QR code):***
 
+```{=html}
+<span style="font-size: 13pt;">👉 <a href="https://forms.office.com/r/LzxSYzV1pg" style="font-weight: bold; color: blue;">Click to this link (SI Session Evaluation Form)</a></span>
+```
+
+::: centered
+***<u> SCAN THIS QR</u>***
+
+```{=html}
+
+<span style="font-size: 13pt; display: flex; flex-direction: column; align-items: center;">
+👇
+<img src="C:\Users\lequa\Downloads\QRCode for SI Session Evaluation Form.png" alt="QR Code" style="width: 500px; height: 500px;"/>
+</span>
+```
+:::
+
+## ***4.  Request Virtual SI Session  Form 2025***
+
+### ***Instruction:***
+
+*You <u>MUST</u> have these following things below to fill this form:*
+
+a. UHD student's email.
+b. Tablet/Mobile phone/Computer.
+c. Must ***<u>HAVE</u>*** at least ***2 students*** (including yourself) to request the Virtual SI Session.
+d. Must ***<u>CHOOSE one</u>*** of the date in the form and make sure you and your classmate(s)/friend(s) **can attend the session** on that time.
+d. Read carefully and follow the instruction in the form.
+
+***Form link (click on the link or scan the QR code):***
+
+```{=html}
+<span style="font-size: 13pt;">👉 <a href="https://forms.office.com/r/eYeU8HzVye" style="font-weight: bold; color: blue;">Click to this link (SI Session Evaluation Form)</a></span>
+```
+
+::: centered
+***<u> SCAN THIS QR</u>***
+
+```{=html}
+
+<span style="font-size: 13pt; display: flex; flex-direction: column; align-items: center;">
+👇
+<img src="C:\Users\lequa\Downloads\QRCode for Request Virtual SI Session Form.png" alt="QR Code" style="width: 500px; height: 500px;"/>
+</span>
+```
+
+:::
+
+
+#### ***<u>Notice:</u>***
+***If you have any questions or concerns about these forms, please email to me at [Le Quang](mailto:leq@uhd.edu).***
 
 ```{=html}
 <div style="position: fixed; right: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
